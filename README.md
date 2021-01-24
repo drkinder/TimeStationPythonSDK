@@ -4,7 +4,7 @@ A python API wrapper for mytimestation.com, making it very easy to get up and ru
 
 ## Installation
 
-Not yet available via pip. Fork this repository to access.
+Not yet available via pip. Clone this repository to access.
 
 ## Usage
 
