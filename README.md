@@ -15,7 +15,7 @@ Pass the required parameters via a dictionary to the desired endpoints.
 from TimeStationPythonSDK import timestation 
 
 API_KEY = 'xxxxxxxxxxxxxxxxxxxxxx'
-ts = TimeStation(API_KEY)
+ts = timestation.TimeStation(API_KEY)
 
 # All Employees Endpoints
 ts.employees.list_employees()
